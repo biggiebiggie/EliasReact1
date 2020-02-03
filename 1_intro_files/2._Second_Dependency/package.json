@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node ./peopleParty.js"
+  },
+  "dependencies": {
+    "validator": "12.2.0"
+  }
+}

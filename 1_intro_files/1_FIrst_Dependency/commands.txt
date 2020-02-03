@@ -1,3 +1,9 @@
 npm install
 
 node fileName.js
+
+  "scripts": {
+    "start": "node ./peopleParty.js"
+  },
+
+  transpile (compile from one langauage to another
