@@ -6,4 +6,6 @@ node fileName.js
     "start": "node ./peopleParty.js"
   },
 
+  npm start
+
   transpile (compile from one langauage to another
